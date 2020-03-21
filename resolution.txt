@@ -2,3 +2,5 @@ my resolutions :
 -finishing learn basic php
 -lean mysql
 -create my portfolio website
+-learn oop
+-exercise
